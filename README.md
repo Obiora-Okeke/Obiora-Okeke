@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<p align="center"><img src="https://github.com/Obiora-Okeke/Obiora-Okeke/blob/main/Logo.PNG"/></div>
 <!--
 **Obiora-Okeke/Obiora-Okeke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
