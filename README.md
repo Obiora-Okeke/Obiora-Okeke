@@ -1,6 +1,16 @@
-### Hi there 👋
+
 <p align="center"><img src="https://github.com/Obiora-Okeke/Obiora-Okeke/blob/main/Logo.PNG"/></div>
-<!--
+### Hi there 👋, My name is Obiora, but I go by Obi
+
+### 😄About me
+I am a Freshman at Columbia University in the school of Engineering and Applied Science, majoring in Computer Engineering, looking for an opportunity to grow and solidify my skillset as I enter the industry of technology. I have personal project experience with Python, Java, and Arduino. I also have industry experience with JavaScript and Node.js.
+
+### ⚡Club & Associations
+* Google Developers Student Club
+* Major League Hacking
+* Columbia University Black Student Orgainzation
+* National Association of Rocketry
+*
 **Obiora-Okeke/Obiora-Okeke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
