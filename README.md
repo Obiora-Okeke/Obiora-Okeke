@@ -1,5 +1,5 @@
-
 <p align="center"><img src="https://github.com/Obiora-Okeke/Obiora-Okeke/blob/main/Logo.PNG"/></div>
+
 ### Hi there 👋, My name is Obiora, but I go by Obi
 
 ### 😄About me
@@ -10,17 +10,7 @@ I am a Freshman at Columbia University in the school of Engineering and Applied 
 * Major League Hacking
 * Columbia University Black Student Orgainzation
 * National Association of Rocketry
-*
-**Obiora-Okeke/Obiora-Okeke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 💬 Ask me about Whatever
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me: obioraokeke03@gmail.com
