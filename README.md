@@ -11,7 +11,7 @@ I am a Freshman at Columbia University in the school of Engineering and Applied 
 * Columbia University Black Student Orgainzation
 * National Association of Rocketry
 
-### Current Projects:
+### 🛠️Current Projects:
 * Learning SQL
 
 ### 💬 Ask me about Whatever
