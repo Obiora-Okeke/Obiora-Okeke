@@ -8,6 +8,7 @@ I am a Freshman at Columbia University in the school of Engineering and Applied 
 ### ⚡Club & Associations
 * Google Developers Student Club
 * Major League Hacking
+* Black Gen Capital Columbia - Analyst
 * Columbia University Black Student Orgainzation
 * National Association of Rocketry
 
@@ -16,4 +17,5 @@ I am a Freshman at Columbia University in the school of Engineering and Applied 
 
 ### 💬 Ask me about Whatever
 
-### 📫 How to reach me: obioraokeke03@gmail.com
+### 📫 How to reach me: 
+* email: obioraokeke03@gmail.com
