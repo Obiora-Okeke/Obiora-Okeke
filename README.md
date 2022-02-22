@@ -11,6 +11,9 @@ I am a Freshman at Columbia University in the school of Engineering and Applied 
 * Columbia University Black Student Orgainzation
 * National Association of Rocketry
 
+### Current Projects:
+* Learning SQL
+
 ### 💬 Ask me about Whatever
 
 ### 📫 How to reach me: obioraokeke03@gmail.com
