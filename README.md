@@ -3,17 +3,16 @@
 ### Hi there 👋, My name is Obiora, but I go by Obi
 
 ### 😄About me
-I am a Freshman at Columbia University in the school of Engineering and Applied Science, majoring in Computer Engineering, looking for an opportunity to grow and solidify my skillset as I enter the industry of technology. I have personal project experience with Python, Java, and Arduino. I also have industry experience with JavaScript and Node.js.
+I am a Junior at Columbia University in the school of Engineering and Applied Science, majoring in Computer Science, looking for an opportunity to grow and solidify my skillset as I enter the industry of technology. I have personal project experience with Python, Java, and Arduino. I also have industry experience with JavaScript and Node.js.
 
 ### ⚡Club & Associations
-* Google Developers Student Club
-* Major League Hacking
-* Black Gen Capital Columbia - Analyst
+* D1 Thrower for Columbia's Varsity Track & Field Team
 * Columbia University Black Student Orgainzation
-* National Association of Rocketry
+* National Society of Black Engineers
+* * National Association of Rocketry
 
 ### 🛠️Current Projects:
-* Learning SQL
+* Currently participating in SEO's Tech Developer Program
 
 ### 💬 Ask me about Whatever
 
