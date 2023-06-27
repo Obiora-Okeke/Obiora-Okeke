@@ -9,7 +9,7 @@ I am a Junior at Columbia University in the school of Engineering and Applied Sc
 * D1 Thrower for Columbia's Varsity Track & Field Team
 * Columbia University Black Student Orgainzation
 * National Society of Black Engineers
-* * National Association of Rocketry
+* National Association of Rocketry
 
 ### 🛠️Current Projects:
 * Currently participating in SEO's Tech Developer Program
